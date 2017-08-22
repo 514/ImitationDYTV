@@ -8,4 +8,7 @@ target 'DYZB-Swift' do
   # Pods for DYZB-Swift
 pod 'Alamofire'
 pod 'Kingfisher'
+pod 'SnapKit', '~> 3.0.2'             
+pod 'pop', '~> 1.0.9'
+pod 'JHPullToRefreshKit', '~> 1.0.1'  
 end

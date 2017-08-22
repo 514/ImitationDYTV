@@ -7,7 +7,7 @@
 //
 
 import UIKit
-//新建工程
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
